@@ -1,0 +1,2 @@
+rootProject.name='Work Hours Calculator'
+include ':app'
